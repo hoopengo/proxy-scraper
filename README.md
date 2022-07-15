@@ -1,2 +1,2 @@
 ## proxysc - простой парсер прокси
-`proxysc --help`
+`python proxyscraper.py`
